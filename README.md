@@ -12,8 +12,8 @@
 </a>
 
 
-<br />
-
+<br/>
+<br/>
                            
  <h1>Tech Stack</h1>
 
@@ -34,15 +34,11 @@
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <a href="hhttps://expressjs.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/express/express-original.svg" alt="express" width="48" height="48"/> </a> 
- 
 </p>
 
 <br />
-<br />
-
 
 ## 📊 My Github Stats
-
   <br/>
     <img alt="Prem Bhimavat's Github Stats" src="https://github-readme-stats.vercel.app/api?username=prembhimavat&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
  
