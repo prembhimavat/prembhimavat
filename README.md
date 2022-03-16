@@ -30,6 +30,7 @@
    <a href="https://expressjs.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/express/express-original.svg" alt="express" width="48" height="48"/> </a> 
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="48" height="48"/> </a>
      <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/> </a> 
+  <a style="padding-right:8px;" href="https://tomcat.apache.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/tomcat/tomcat-original.svg" alt="tomcat" width="48" height="48"/> </a>
     <a style="padding-right:10px;" href="https://www.mysql.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/mysql/mysql-plain.svg" alt="mysql" width="48" height="48"/> </a>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
   <a href="https://ubuntu.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/linux/linux-original.svg" alt="linux" width="48" height="48"/> </a> 
