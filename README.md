@@ -26,12 +26,12 @@
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
       <a href="https://www.mongodb.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/mongodb/mongodb-plain.svg" alt="mongodb" width="48" height="48"/> </a>
-      <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
-   <a href="https://expressjs.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/express/express-original.svg" alt="express" width="48" height="48"/> </a> 
+   <a href="https://expressjs.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/express/express-original.svg" alt="express" width="48" height="48"/> </a>
+  <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="48" height="48"/> </a>
   <a style="padding-right:8px;" href="https://www.npmjs.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/npm/npm-original-wordmark.svg" alt="npm" width="48" height="48"/> </a>
-     <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/> </a> 
-  <a style="padding-right:8px;" href="https://tomcat.apache.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/tomcat/tomcat-original.svg" alt="tomcat" width="48" height="48"/> </a>
+<!--      <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/> </a> 
+  <a style="padding-right:8px;" href="https://tomcat.apache.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/tomcat/tomcat-original.svg" alt="tomcat" width="48" height="48"/> </a> -->
     <a style="padding-right:10px;" href="https://www.mysql.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/mysql/mysql-plain.svg" alt="mysql" width="48" height="48"/> </a>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
   <a href="https://ubuntu.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/linux/linux-original.svg" alt="linux" width="48" height="48"/> </a> 
