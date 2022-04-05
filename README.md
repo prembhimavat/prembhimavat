@@ -17,7 +17,6 @@
  <h1>Tech Stack</h1>
 
 <p align="left"> 
-    <a href="https://www.cplusplus.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/cplusplus/cplusplus-plain.svg" alt="cpp" width="48" height="48"/> </a> 
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
      <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
@@ -30,11 +29,12 @@
   <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="48" height="48"/> </a>
   <a style="padding-right:8px;" href="https://www.npmjs.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/npm/npm-original-wordmark.svg" alt="npm" width="48" height="48"/> </a>
-<!--      <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/> </a> 
-  <a style="padding-right:8px;" href="https://tomcat.apache.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/tomcat/tomcat-original.svg" alt="tomcat" width="48" height="48"/> </a> -->
     <a style="padding-right:10px;" href="https://www.mysql.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/mysql/mysql-plain.svg" alt="mysql" width="48" height="48"/> </a>
+    <a href="https://socket.io/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/socketio/socketio-original.svg" alt="socket" width="48" height="48"/> </a> 
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-  <a href="https://ubuntu.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/linux/linux-original.svg" alt="linux" width="48" height="48"/> </a> 
+  <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/vscode/vscode-original.svg" alt="vscode" width="48" height="48"/> </a> 
+  <a href="https://jupyter.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/jupyter/jupyter-original.svg" alt="jupyter" width="48" height="48"/> </a> 
+  <a href="https://ubuntu.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="48" height="48"/> </a> 
 </p>
 <br />
 
